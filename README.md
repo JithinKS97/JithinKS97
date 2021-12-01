@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thanks for visiting my profile. I'm a full stack developer focusing on web3.0 currently. I'm familiar with React, Node.js and has been exploring smart contract development in Solidity lately.
+Thanks for visiting my profile. I'm a full stack developer and have been exploring web3.0 lately. I'm familiar with React, Node.js and smart contract development in solidity.
 
 ## These are my projects that I'm proud about
 
