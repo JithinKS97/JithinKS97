@@ -2,7 +2,7 @@
 
 Thanks for visiting my profile. I'm a full stack developer and have been exploring web3.0 lately. I'm familiar with React, Node.js and smart contract development in solidity.
 
-[View my portfolio](jitihnks.netlify.app/)
+[View my portfolio](https://jithinks.netlify.app/)
 
 ## These are some of my projects that I'm proud of being a part of
 
