@@ -12,4 +12,4 @@ Thanks for visiting my profile. I'm a full stack developer and have been explori
 
 ## About me
 
-I am a very curious fellow who loves to explore the inner working of things. I love to read and discuss about nature, human psychology, wonders of the universe, life, cryptocurrencies.
+I am a very curious fellow who loves to explore the inner working of a lot of things. I love to read and discuss about nature, human psychology, cosmology, physics, quantum mechanics, life, cryptocurrencies and similar fun topics.
