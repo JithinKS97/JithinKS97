@@ -12,4 +12,4 @@ Thanks for visiting my profile. I'm a full stack developer, primarily working wi
 
 ## About me
 
-I'm a person who loves to understand the inner workings of things. I love to explore and talk about different things like nature, human psychology, cosmology, physics, crypto and similar interesting topics.
+I'm a person who loves to understand the inner working of things around us. I love to explore and discuss about different a wide variety of topics like nature, human psychology, cosmology, physics, crypto etc.
