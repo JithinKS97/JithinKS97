@@ -9,3 +9,8 @@ Thanks for visiting my profile. I'm a full stack developer and have been explori
 1. [Dynamic learning](https://dl-next.herokuapp.com/workbook/5f7b2e204f79be001765eda9) | [Read article](https://dev.to/jithinks97/dynamic-learning-an-open-source-tool-to-teach-effectively-using-interactive-visualisations-450n)
 2. [Riddle, peer to peer white board app](http://nknriddle.xyz/) | [Read article](https://nkn.org/community/blog/riddle-a-collaborative-whiteboard-web-app-powered-by-nkn/)
 3. [Picturama Defi](https://picturama-defi.netlify.app/) | [Read article](https://devpost.com/software/picturama-defi-financing-independent-cinema)
+
+## Hobbies
+
+1. Apart from programming, I love to read books about nature, physics, universe etc
+2. I love discussing about deeper questions like what is the whole purpose of life, what is love etc. etc.
