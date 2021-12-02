@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thanks for visiting my profile. I'm a full stack developer and have been exploring web3.0 lately. I'm familiar with React, Node.js and smart contract development in solidity.
+Thanks for visiting my profile. I'm a full stack developer, primarily working with React and Node. Recently, I have been diving deep into web 3.0, crypto and blockchain development.
 
 [View my portfolio](https://jithinks.netlify.app/)
 
