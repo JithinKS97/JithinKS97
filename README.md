@@ -8,7 +8,7 @@ Thanks for visiting my profile. I'm a full stack developer, primarily working wi
 
 1. [Dynamic learning](https://dl-next.herokuapp.com/workbook/5f7b2e204f79be001765eda9) | [Read article](https://dev.to/jithinks97/dynamic-learning-an-open-source-tool-to-teach-effectively-using-interactive-visualisations-450n)
 2. [Riddle, peer to peer white board app](http://nknriddle.xyz/) | [Read article](https://nkn.org/community/blog/riddle-a-collaborative-whiteboard-web-app-powered-by-nkn/)
-3. [Picturama Defi](https://picturama-defi.netlify.app/) | [Read article](https://devpost.com/software/picturama-defi-financing-independent-cinema)
+3. [Picturama Defi](https://picturama-defi.netlify.app/) | [Read article](https://devpost.com/software/picturama-defi-financing-independent-cinema) (Won prize in filecoin prize pool in Chainlink 2021 hackathon)
 
 ## About me
 
