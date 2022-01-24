@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thanks for visiting my profile. I'm a full stack developer, primarily working with React and Node. Recently, I have been diving deep into web 3.0, crypto and blockchain development.
+Thanks for visiting my profile. I'm a full stack developer, primarily working with React, Node and a little bit of Rust. Recently, I have been diving deep into web 3.0, crypto and blockchain and peer to peer applications. 
 
 [View my portfolio](https://jithinks.netlify.app/)
 
