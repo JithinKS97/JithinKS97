@@ -11,3 +11,8 @@ Thanks for visiting my profile. I'm a full stack developer, primarily working wi
 3. [Picturama Defi](https://picturama-defi.netlify.app/) | [Read article](https://devpost.com/software/picturama-defi-financing-independent-cinema) (Won prize in [filecoin prize pool](https://chainlink-fall-hackathon-2021.devpost.com/submissions/search?utf8=%E2%9C%93&prize_filter%5Bprizes%5D%5B%5D=49660) in Chainlink 2021 hackathon) | [Code](https://github.com/picturama-defi/contracts)
 4. [Parallax visualisation](https://jithinks97.github.io/GEC/Parallax%20finished/Parallax_night/sketch/index.html) | [Code](https://github.com/JithinKS97/JithinKS97.github.io/tree/master/GEC/Parallax%20finished/Parallax_night/sketch)
 5. [Galaxy solar system earth moon visualisation](https://github.com/JithinKS97/galaxy-solarsystem-earth-visualisation)
+
+## Here are my writings
+
+1. [Dev.to](https://dev.to/jithinks)
+2. [Medium](https://medium.com/@jithunni.ks)
