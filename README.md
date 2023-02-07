@@ -7,4 +7,4 @@ Hi, Thanks for visiting my profile. My name is Jithin KS and I'm a Fullstack dev
 #### [Developed Riddle](https://nkn-riddle.netlify.app/)
 * Riddle is a peer to peer [whiteboard application](https://github.com/JithinKS97/riddle) that was developed as a part of [Gitcoin GR11 hackathon](https://gitcoin.co/issue/26449) and won first prize.
 #### [Google summer of code 2019 at Processing foundation](https://medium.com/processing-foundation/improving-science-and-math-education-using-p5-js-d434beea465c)
-* Developed [Dynamic learning](https://github.com/dynamic-learning), an opensource platform that allows teachers and programmers to collaborate to create lessons that [teaches STEM concepts using visualisations](https://dev.to/jithinks/dynamic-learning-an-open-source-tool-to-teach-effectively-using-interactive-visualisations-450n)
+* Developed [Dynamic learning](https://github.com/dynamic-learning), an opensource platform that allows teachers and programmers to collaborate to create lessons that [teaches STEM concepts using visualisations](https://dev.to/jithinks/dynamic-learning-an-open-source-tool-to-teach-effectively-using-interactive-visualisations-450n).
