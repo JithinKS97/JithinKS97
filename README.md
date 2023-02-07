@@ -1,4 +1,4 @@
-Hi, Thanks for visiting my profile. My name is Jithin KS and I'm a Fullstack developer. Lately, I have gained a deep interest in web3 and blockchain and have been exploring it.
+Hi, Thanks for visiting my profile. My name is Jithin and I'm a Fullstack developer. Lately, I have gained a deep interest in web3 and blockchain and have been exploring it.
 
 ### My works
 #### [Contributions to Ethernaut](https://github.com/OpenZeppelin/ethernaut)
