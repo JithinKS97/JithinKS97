@@ -1,18 +1,6 @@
-### Hi there 👋
+Hi, Thanks for visiting my profile. My name is Jithin KS and I'm a Fullstack developer. Lately, I have gained a deep interest in web3 and blockchain and have been exploring it.
 
-Thanks for visiting my profile. I'm a full stack developer, primarily working with React, Node, Python, Express, Mongo / SQL. Recently, I have been diving deep into web 3.0, crypto, blockchain and peer to peer applications. 
-
-[View my portfolio](https://jithinks.netlify.app/)
-
-## These are some of my projects that I'm proud of being a part of
-
-1. [Dynamic learning](https://dl-next.herokuapp.com/workbook/5f7b2e204f79be001765eda9) | [Read article](https://dev.to/jithinks97/dynamic-learning-an-open-source-tool-to-teach-effectively-using-interactive-visualisations-450n) ([GSoC 2018](https://medium.com/processing-foundation/improving-science-and-math-education-using-p5-js-d434beea465c)) | [Code](https://github.com/dynamic-learning/next-client)
-2. [Riddle, peer to peer white board app](https://nkn-riddle.netlify.app/) | [Read article](https://nkn.org/community/blog/riddle-a-collaborative-whiteboard-web-app-powered-by-nkn/) (Won [prize](https://gitcoin.co/issue/nknorg/nBounty/6/100026449) in Gitcoin GR11 hackathon under NKN) | [Code](https://github.com/JithinKS97/riddle)
-3. [Picturama Defi](https://picturama-defi.netlify.app/) | [Read article](https://devpost.com/software/picturama-defi-financing-independent-cinema) (Won prize in [filecoin prize pool](https://chainlink-fall-hackathon-2021.devpost.com/submissions/search?utf8=%E2%9C%93&prize_filter%5Bprizes%5D%5B%5D=49660) in Chainlink 2021 hackathon) | [Code](https://github.com/picturama-defi/contracts)
-4. [Ballot factory voting dapp](https://ballot-factory.netlify.app) | [Code](https://github.com/JithinKS97/ballot-factory)
-5. [Parallax visualisation](https://jithinks97.github.io/GEC/Parallax%20finished/Parallax_night/sketch/index.html) | [Code](https://github.com/JithinKS97/JithinKS97.github.io/tree/master/GEC/Parallax%20finished/Parallax_night/sketch)
-
-## Here are my writings
-
-1. [Dev.to](https://dev.to/jithinks)
-2. [Medium](https://medium.com/@jithunni.ks)
+### My works
+#### [Openzeppelin CTF game Ethernaut](https://github.com/OpenZeppelin/ethernaut)
+1. Developed a [statistics contract](https://github.com/OpenZeppelin/ethernaut/blob/master/contracts/contracts/metrics/Statistics.sol) to keep track of the activities.
+2. Helped develop and deploy [script](https://github.com/OpenZeppelin/ethernaut-leaderboard) that crawls data in the blockchain to prepare and display leaderboard.
